@@ -20,7 +20,8 @@ Copper CAM
 # Output
 
 ### Contours Output
-![Uploading image.png…]()
+<img width="493" height="393" alt="image" src="https://github.com/user-attachments/assets/4c6ecffb-9b1a-49fa-a5c3-108077cdd0f4" />
+
 
 
 ### Engraving G Code
